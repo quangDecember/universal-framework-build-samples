@@ -1,1 +1,5 @@
 *.DS_Store
+swift-in-swift/universal/build
+swift-in-swift/universal/universal.framework
+swift-in-swift/universal/env.txt
+swift-in-swift/universal/universal.xcodeproj/project.xcworkspace/xcuserdata
