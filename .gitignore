@@ -11,3 +11,7 @@ simple-swift-framework/universal/universal.xcodeproj/project.xcworkspace/xcshare
 simple-swift-framework/universal/universal.xcodeproj/xcuserdata/quang.ha.xcuserdatad
 simple-swift-framework/universal/app/app.xcodeproj/project.xcworkspace/xcuserdata
 simple-swift-framework/universal/app/app.xcodeproj/xcuserdata
+framework-in-framework-by-debug-flag/ChildFrameworkWithDebugFlag/ChildFrameworkWithDebugFlag.xcodeproj/project.xcworkspace/xcuserdata
+framework-in-framework-by-debug-flag/ChildFrameworkWithDebugFlag/ChildFrameworkWithDebugFlag.xcodeproj/xcuserdata
+framework-in-framework-by-debug-flag/ParentFrameworkWithDebugFlag/ParentFrameworkWithDebugFlag.xcodeproj/project.xcworkspace/xcuserdata
+framework-in-framework-by-debug-flag/ParentFrameworkWithDebugFlag/ParentFrameworkWithDebugFlag.xcodeproj/xcuserdata/quang.ha.xcuserdatad
